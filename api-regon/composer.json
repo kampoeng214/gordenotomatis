@@ -1,0 +1,13 @@
+{
+    "name": "geekcode/daurelia",
+    "description": "Web service untuk aplikasi restoran D'aurelia",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "ryuzaki145",
+            "email": "andrykurniawan45@gmail.com"
+        }
+    ],
+    "require": {}
+}
